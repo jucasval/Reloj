@@ -1,1 +1,1 @@
-Reloj usando html5, css, js y ajax
+Reloj usando html5, css y js
